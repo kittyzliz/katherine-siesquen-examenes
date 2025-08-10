@@ -1,0 +1,18 @@
+# Directorios de entorno virtual
+venv/
+.env/
+
+# Archivos de caché
+*.pyc
+__pycache__/
+
+# Archivos de configuración local
+.vscode/
+.idea/
+
+# Archivos de registro
+*.log
+
+# Archivos de datos temporales
+*.swp
+*~
